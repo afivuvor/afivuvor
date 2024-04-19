@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afivuvor
+- 👋 Hi, I’m Sena Afi Vuvor [@afivuvor]
 - 👀 I’m interested in technical business analysis, project management, and web development 
 - 🌱 I’m currently learning C
 - 🤝🏿 I have experience with Python, java, 
