@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sena Afi Vuvor [@afivuvor]
-- 👀 I’m interested in research, technical business analytics, project management, and web development 
+- 👀 I’m interested in technical business analytics, project management, and web development 
 - 🌱 I’m currently learning C
 - 🤝🏿 I have experience with Python, SQL, HTML, CSS, Javascript, Java, and R 
 - 💞️ I’m looking to collaborate on any intermediate-level Python or web development projects
